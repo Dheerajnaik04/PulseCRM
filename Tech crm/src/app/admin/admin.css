@@ -1,0 +1,11 @@
+/* Reset 3D styles for admin pages */
+.admin-layout {
+  transform-style: flat !important;
+  perspective: none !important;
+  transform: none !important;
+}
+
+.admin-layout * {
+  transform-style: flat !important;
+  perspective: none !important;
+} 
